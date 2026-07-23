@@ -36,6 +36,7 @@ IoT devices (including robot vacuums) often:
 
 
 Your repo would teach users how to lock all of that down.
+
 ---
 
 WKT12 IoT Defense
@@ -64,7 +65,7 @@ Example: Robot Vacuum Threat Model
 • Cloud → unknown data retention policies
 
 
-Blue‑Team Mitigations
+# Blue‑Team Mitigations
 
 • Put vacuum on a separate VLAN
 • Block all outbound traffic except known update servers
@@ -74,7 +75,6 @@ Blue‑Team Mitigations
 • Proxy outbound traffic through a controlled exit node
 • Log all connections with Zeek or Suricata
 
----
 
 🛠️ Example Firewall Rule Set
 
