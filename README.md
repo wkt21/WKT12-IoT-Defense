@@ -18,7 +18,8 @@ A GitHub repo that teaches people how to defend their IoT environment using:
 • Threat modeling
 
 
-This is blue‑team defensive security, not fear‑mongering — and it fits perfectly with your WKT12 brand.
+This is blue‑team defensive security, not fear‑mongering.
+
 ---
 
 # Why IoT Defense Matters
