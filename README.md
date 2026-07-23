@@ -73,6 +73,7 @@ Blue‑Team Mitigations
 • Disable cloud features when possible
 • Proxy outbound traffic through a controlled exit node
 • Log all connections with Zeek or Suricata
+
 ---
 
 🛠️ Example Firewall Rule Set
@@ -81,6 +82,7 @@ Block all outbound traffic except approved update servers:
 
 block out on iot_vlan from any to any
 pass out on iot_vlan from any to { vendor-update-servers } port 443
+
 ---
 
 🔍 Example Cloud Endpoint Analysis
