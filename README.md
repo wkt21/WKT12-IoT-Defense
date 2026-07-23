@@ -38,11 +38,6 @@ IoT devices (including robot vacuums) often:
 Your repo would teach users how to lock all of that down.
 ---
 
-
----
-
-📘 README.md Content (High‑Value, Informative)
-
 WKT12 IoT Defense
 
 Protecting your smart home from insecure IoT devices using blue‑team methodologies.
@@ -61,11 +56,11 @@ What This Repo Covers
 
 Example: Robot Vacuum Threat Model
 
-• Lidar mapping → sends home layout to cloud
-• Camera module → potential privacy exposure
+• Lidar mapping → sends home layout to       cloud
+• Camera module → potential privacy         exposure
 • Microphone → voice command telemetry
 • Dock → WiFi credentials stored locally
-• App → permissions for location, contacts, photos
+• App → permissions for location,           contacts, photos
 • Cloud → unknown data retention policies
 
 
